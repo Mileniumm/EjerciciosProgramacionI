@@ -27,7 +27,8 @@ Los primeros ejercicios resuelven todo dentro del `Main`. A partir del TP2 el c�
 
 ## Otras materias
 
-- [Programación III](https://github.com/Mileniumm/EjerciciosProgramacionIII): HTML, CSS, JavaScript, Angular, ASP.NET Core y patrones de diseño.
+- [Programación III · Frontend](https://github.com/Mileniumm/ProgramacionIII-Frontend): HTML, CSS, JavaScript y Angular.
+- [Programación III · Backend](https://github.com/Mileniumm/ProgramacionIII-Backend): API REST en ASP.NET Core y patrones de diseño en C#.
 
 ---
 
